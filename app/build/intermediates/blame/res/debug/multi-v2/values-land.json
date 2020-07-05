@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\FatkhulK\\.gradle\\caches\\transforms-2\\files-2.1\\ea88890b09526096266c9c16859169ae\\appcompat-1.1.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\FatkhulK\\.gradle\\caches\\transforms-2\\files-2.1\\694738a0491a067d98cea47807e06b0d\\jetified-library-0.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "173,225,279,339,400",
+                        "endColumns": "51,53,59,60,59",
+                        "endOffsets": "220,274,334,395,455"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "264,316,370,430,491",
+                        "endColumns": "51,53,59,60,59",
+                        "endOffsets": "311,365,425,486,546"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\FatkhulK\\.gradle\\caches\\transforms-2\\files-2.1\\4bcf2eceb08199f7c727c07aab682f4b\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "551",
+                        "endLines": "13",
+                        "endColumns": "10",
+                        "endOffsets": "718"
+                    }
+                }
+            ]
+        }
+    ]
+}
