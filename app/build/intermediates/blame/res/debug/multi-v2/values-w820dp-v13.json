@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "D:\\MenKeuMobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\FatkhulK\\.gradle\\caches\\transforms-2\\files-2.1\\694738a0491a067d98cea47807e06b0d\\jetified-library-0.2.0\\res\\values-w820dp\\values-w820dp.xml",
+                    "source": "C:\\Users\\gilan\\.gradle\\caches\\transforms-2\\files-2.1\\148afad34a9950b31788855c24ae36dd\\jetified-library-0.2.0\\res\\values-w820dp\\values-w820dp.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

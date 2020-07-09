@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+            "outputFile": "D:\\MenKeuMobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\FatkhulK\\.gradle\\caches\\transforms-2\\files-2.1\\694738a0491a067d98cea47807e06b0d\\jetified-library-0.2.0\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "source": "C:\\Users\\gilan\\.gradle\\caches\\transforms-2\\files-2.1\\148afad34a9950b31788855c24ae36dd\\jetified-library-0.2.0\\res\\values-eu-rES\\values-eu-rES.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -1225,7 +1225,6 @@ drawable tooltip_frame_light
 id ALT
 id CTRL
 id FUNCTION
-id LL
 id LL2
 id META
 id SHIFT
@@ -1334,7 +1333,6 @@ id container
 id content
 id contentPanel
 id coordinator
-id create
 id custom
 id customPanel
 id date_picker_day
@@ -1446,7 +1444,6 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
-id pass
 id percent
 id pin
 id piutang
@@ -1592,13 +1589,11 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id username
 id username_text_input_layout
 id username_text_input_layout2
 id username_text_input_layout3
 id view_offset_helper
 id visible
-id welcom
 id withText
 id wrap
 id wrap_content
@@ -1656,7 +1651,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout acivity_register
 layout activity_about
 layout activity_edit
 layout activity_edit2
@@ -1690,7 +1684,6 @@ layout listkeuangan
 layout listmenu
 layout listmenu2
 layout listpiutang
-layout login_activity
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action

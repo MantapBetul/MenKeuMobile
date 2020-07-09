@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "D:\\MenKeuMobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\FatkhulK\\.gradle\\caches\\transforms-2\\files-2.1\\ea88890b09526096266c9c16859169ae\\appcompat-1.1.0\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\gilan\\.gradle\\caches\\transforms-2\\files-2.1\\ea88890b09526096266c9c16859169ae\\appcompat-1.1.0\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

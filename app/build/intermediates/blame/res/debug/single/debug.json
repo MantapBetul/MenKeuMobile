@@ -1,482 +1,474 @@
 [
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keuangan.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\keuangan.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_refresh.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\refresh.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\xml\\network_security_config.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_listmenu2.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\listmenu2.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_refresh.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\refresh.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listpiutang.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\listpiutang.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_activity.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\login_activity.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_keuangan.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\keuangan.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_refresh.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\refresh.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_edittext.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\gradient.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dashboard.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\dashboard.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_box3.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\rounded_box3.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_edittext.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_piutang.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_main_piutang.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_attach_money_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_attach_money_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_attach_money_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_piutang.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_main_piutang.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textview_border.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\textview_border.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_listkeuangan.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\listkeuangan.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_piutang.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\piutang.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_keuangan.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_main_keuangan.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_keuangan.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\keuangan.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_edit.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main2.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\content_main2.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_event_note_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_event_note_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dashboard.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dashboard.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_bg.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\splash_bg.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_event_note_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_event_note_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_bg.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\splash_bg.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_dashboard.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_acivity_register.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\acivity_register.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_keuangan.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\keuangan.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_listmenu.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\listmenu.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main2.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\menu\\menu_main2.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dashboard.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\dashboard.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_attach_money_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_attach_money_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_keuangan.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\keuangan.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_saldo.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\content_saldo.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_refresh.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\refresh.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_keuangan.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\keuangan.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_attach_money_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_piutang.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\piutang.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_bg.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable-v24\\splash_bg.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_event_note_black_24dp.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable-v24\\ic_event_note_black_24dp.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_piutang.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\piutang.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kotak2.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\kotak2.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_keuangan.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\keuangan.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_refresh.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\refresh.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_attach_money_black_24dp.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_attach_money_black_24dp.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_event_note_black_24dp.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable-v24\\ic_event_note_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_listpiutang.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\listpiutang.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dashboard.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\dashboard.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_keuangan.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\keuangan.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_box3.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\rounded_box3.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_refresh.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\refresh.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit2.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_edit2.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dashboard.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\dashboard.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_piutang.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\piutang.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_saldo.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\content_saldo.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kotak2.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\kotak2.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_piutang.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\piutang.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_keuangan.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\keuangan.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_refresh.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\refresh.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_attach_money_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_piutang.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\piutang.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambah_piutang.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_tambah_piutang.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_box2.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\rounded_box2.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dashboard.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\dashboard.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listkeuangan.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\listkeuangan.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_piutang.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\piutang.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\gradient.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_keuangan.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\keuangan.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_event_note_black_24dp.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_event_note_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable-v24\\logo.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_attach_money_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listmenu.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\listmenu.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\refresh.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_b.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\b.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_event_note_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_event_note_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambahkeuangan.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_tambahkeuangan.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_event_note_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_event_note_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_piutang.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\piutang.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_event_note_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_event_note_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dashboard.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\dashboard.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keuangan.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\keuangan.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_bg.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable-v24\\splash_bg.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main2.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\content_main2.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\a.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listmenu2.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\listmenu2.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_event_note_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_event_note_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable-v24\\gradient.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_box1.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\rounded_box1.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_event_note_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_event_note_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kotak3.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\kotak3.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable-v24\\gradient.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_event_note_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_event_note_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\a.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_attach_money_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_attach_money_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambahkeuangan.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_tambahkeuangan.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_keuangan.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\keuangan.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main2.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\menu\\menu_main2.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dashboard.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\dashboard.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_attach_money_black_24dp.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_attach_money_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_b.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\b.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_piutang.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\piutang.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_refresh.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\refresh.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_piutang.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\piutang.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_refresh.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\refresh.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_event_note_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_event_note_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dashboard.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\dashboard.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\refresh.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kotak3.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\kotak3.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_event_note_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_event_note_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_box1.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\rounded_box1.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_keuangan.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_main_keuangan.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_refresh.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\refresh.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_attach_money_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_attach_money_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_box2.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\rounded_box2.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dashboard.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\dashboard.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_piutang.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\piutang.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\xml\\network_security_config.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kotak.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable\\kotak.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_dashboard.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dashboard.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_piutang.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\piutang.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_attach_money_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_money_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_event_note_black_24dp.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_event_note_black_24dp.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_attach_money_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_refresh.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\refresh.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambah_piutang.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_tambah_piutang.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_refresh.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\refresh.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dashboard.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dashboard.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_attach_money_black_24dp.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_attach_money_black_24dp.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\drawable-v24\\logo.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_attach_money_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_money_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_event_note_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_event_note_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kotak.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\kotak.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_edit.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_piutang.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\piutang.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_keuangan.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\keuangan.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textview_border.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\drawable\\textview_border.xml"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit2.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\src\\main\\res\\layout\\activity_edit2.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_keuangan.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\keuangan.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_piutang.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\piutang.png"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add.xml.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add.xml"
     },
     {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dashboard.png.flat",
-        "source": "C:\\Users\\FatkhulK\\Downloads\\Compressed\\MenKeuMobile-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\dashboard.png"
+        "merged": "D:\\MenKeuMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_event_note_black_24dp.png.flat",
+        "source": "D:\\MenKeuMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_event_note_black_24dp.png"
     }
 ]
